@@ -1,3 +1,5 @@
+
+
 # No Response
 
 A GitHub Action that closes Issues where the author hasn't responded to a request for more information.
